@@ -1,5 +1,16 @@
  .google_logo {
-       height:600px;
+ 	   margin:45px 250px 100px 100px;
+       height:400px;
        width:800px;
+       padding: 100px 100px 100px 100px;
 }
 
+
+.form {
+    width: 900px;
+    height: 100px;
+    position: absolute;
+    z-index: 2;
+    left:10%;
+    top: 330px;
+}
